@@ -4,4 +4,5 @@
     <string name="sign_in">Sign in</string>
     <string name="signin_label">Enter your name to sign in</string>
     <string name="title_activity_existing_user">ExistingUserActivity</string>
+    <string name="title_activity_children_list">ChildrenList</string>
 </resources>
